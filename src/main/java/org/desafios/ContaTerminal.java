@@ -1,4 +1,4 @@
-package org.example;
+package org.desafios;
 
 import java.util.Scanner;
 // TODO: Implementar transferências, saques, criar um loop para várias contas.
